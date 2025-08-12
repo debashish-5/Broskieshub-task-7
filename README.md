@@ -10,15 +10,6 @@ Saves resized images in a separate output folder.
 
 Supports multiple formats: .png, .jpg, .jpeg, .bmp, .gif, .webp.
 
-## Requirements
-Install Pillow:
-
-bash
-Copy
-Edit
-pip install pillow
-Usage
-Place your images in the images folder (or change the input_folder path in the script).
 
 Set your desired output size in the new_size variable.
 
